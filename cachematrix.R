@@ -46,10 +46,6 @@ cacheSolve <- function(x, ...) {
   m
 }
 
-setTestData <- function() {
-  a <- c(c(0,0,0,0,1),c(1,0,0,0,1),c(0,1,0,1,0),c(0,0,1,0,0),c(0,0,0,1,0))
-  dim(a) <- c(5,5)
-}
 
 
 
